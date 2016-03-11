@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Sitecore Basics](chapter1.md)
+* Information Architecture
 
