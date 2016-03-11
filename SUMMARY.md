@@ -18,5 +18,4 @@
 * [Performance & Scalability Secrets](Performance & Scalability Secrets/README.md)
 * [Sitecore Modules](Sitecore Modules/README.md)
 * [Latest and Greatest](Latest and Greatest/README.md)
-* [Basic Article Demo](Sitecore Basics/Basic Article Demo)
 
