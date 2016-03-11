@@ -1,6 +1,20 @@
 # Summary
 
 * [Introduction](README.md)
-* [Sitecore Basics](chapter1.md)
-* Information Architecture
-
+* [Siteore Basics](Sitecore Basics/README.md)
+    * [Basic Demo](Sitecore Basics/Basic Demo)   
+* [Information Architecture](Information Architecture/README.md)
+* [The Layout Engine and Data Access APIS](The Layout Engine and Data Access APIS/README.md)
+* [Sitecore MVC](Sitecore MVC/README.md)
+* [Sitececore Search](Sitececore Search/README.md)
+* [Sitecore Security](Sitecore Security/README.md)
+* [Error Management](Error Management/README.md)
+* [Optimizing, Scaling and Troubleshooting](Optimizing, Scaling and Troubleshooting/README.md)
+* [Extending and Integrating Sitecore](Extending and Integrating Sitecore/README.md)
+* [Automated Testing](Automated Testing/README.md)
+* [Managing Implementations](Managing Implementations/README.md)
+* [Sitecore Analytics and xDB](Sitecore Analytics and xDB/README.md)
+* [Sitecore Best Practices, Tips and Tricks](Sitecore Best Practices, Tips and Tricks/README.md)
+* [Performance & Scalability Secrets](Performance & Scalability Secrets/README.md)
+* [Sitecore Modules](Sitecore Modules/README.md)
+* [Latest and Greatest](Latest and Greatest/README.md)
