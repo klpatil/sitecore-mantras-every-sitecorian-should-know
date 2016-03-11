@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Siteore Basics](Sitecore Basics/README.md)
-    * [Basic Demo](Sitecore Basics/Basic Demo)   
+   * [Basic Demo](Sitecore Basics/Basic Demo)
 * [Information Architecture](Information Architecture/README.md)
 * [The Layout Engine and Data Access APIS](The Layout Engine and Data Access APIS/README.md)
 * [Sitecore MVC](Sitecore MVC/README.md)
@@ -18,3 +18,5 @@
 * [Performance & Scalability Secrets](Performance & Scalability Secrets/README.md)
 * [Sitecore Modules](Sitecore Modules/README.md)
 * [Latest and Greatest](Latest and Greatest/README.md)
+* Basic Article Demo
+
