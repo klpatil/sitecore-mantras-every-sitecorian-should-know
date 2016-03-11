@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Siteore Basics](Sitecore Basics/README.md)
-   * [Basic Article Demo](Sitecore Basics/Basic Article Demo)
 * [Information Architecture](Information Architecture/README.md)
 * [The Layout Engine and Data Access APIS](The Layout Engine and Data Access APIS/README.md)
 * [Sitecore MVC](Sitecore MVC/README.md)
