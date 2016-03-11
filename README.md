@@ -45,7 +45,7 @@ If you know meaning of Mantra then it's great. But if not and you are wondering 
 1. Do a **[Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request/example)** from HERE : https://github.com/klpatil/sitecore-mantras-every-sitecorian-should-know
 2. To simplify things. I've already defined category for you! If your desired category is not available. Please do let me know will create one for you!
 2. Add your change!
-3. Make sure you include following things in bottom of your Post - Title of your post, Your name, Blog URL, Twitter Handle, LinkedIn Link - Would like to have it in footer of each post. So, readers can contact you! And you get recognition and credit for your work
+3. Make sure you include following things with in your Post - Title of your post, Your name, Blog URL, Twitter Handle - Would like to have it in footer of each post. So, readers can contact you! And you get recognition and credit for your work
 4. I haven't created lot of rules. But this looks good to me : [http://programmer.97things.oreilly.com/wiki/index.php/How_to_Become_a_Contributor](http://programmer.97things.oreilly.com/wiki/index.php/How_to_Become_a_Contributor) 
 
 Thank you for reading through this! Please do share your one contribution -- Am I asking more? No right. Then just do it! Also, please help us spread a word!
